@@ -1,4 +1,5 @@
 # CobaltStrike_Phishing_Website scanned by Quake
+Paper: https://quake.360.cn/quake/#/reportDetail?id=60c2fcd149bfb5b4b155d951
 
 CobaltStrike_Phishing_Website.csv
 
